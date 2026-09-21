@@ -1,6 +1,10 @@
 # Hi, I'm Lê Thị Thắm - Sarah 👋
 
-IT student focused on **Software Engineering, NLP, and Machine Learning**.
+**Software Engineering | NLP & Machine Learning**
+
+Focus on a Software Engineer with interests in Machine Learning, AI, and intelligent applications.
+
+📍 Da Nang, Vietnam · 📧 letham10122005@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/tham-le-423270218/)
 
 ## Tech Stack
 
@@ -30,5 +34,3 @@ IT student focused on **Software Engineering, NLP, and Machine Learning**.
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-
-**AI:** NLP · LLM · RAG · Explainable AI
